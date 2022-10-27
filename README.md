@@ -11,7 +11,7 @@ Tugas dikerjakan secara berpasangan, untuk daftar kelompok bisa dilihat pada mas
 
 Mohon perwakilan dari pair bisa melakukan fork repo ini dan clone, untuk repositori yang di fork menggunakan penamaan:
 
-`dts4a-3-final`
+dts4a-3-final
 
 
 ## Branching, commit
